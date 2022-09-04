@@ -1,0 +1,21 @@
+[33mcommit 2cadcc745650f1b4185a1fe25e644ab48688ae05[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Snezhana <Snezhana.vl.a@gmail.com>
+Date:   Sun Sep 4 15:56:08 2022 +0300
+
+    add p git1
+
+[1mdiff --git a/HW1/git1.html b/HW1/git1.html[m
+[1mindex 56efbdb..56df48a 100644[m
+[1m--- a/HW1/git1.html[m
+[1m+++ b/HW1/git1.html[m
+[36m@@ -7,6 +7,9 @@[m
+     <title>Document</title>[m
+ </head>[m
+ <body>[m
+[32m+[m[32m    <p>1</p>[m
+[32m+[m[32m    <p>2</p>[m
+[32m+[m[32m    <p>3</p>[m
+     [m
+ </body>[m
+ </html>[m
+\ No newline at end of file[m
